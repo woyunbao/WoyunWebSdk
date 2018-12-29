@@ -1,0 +1,6 @@
+framework module WoyunWebSdk {
+  umbrella header "WoyunWebSdk.h"
+
+  export *
+  module * { export * }
+}
